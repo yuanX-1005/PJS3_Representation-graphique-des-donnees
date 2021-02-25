@@ -1,0 +1,128 @@
+body{
+	background: rgb(63,165,251);
+	background: radial-gradient(circle, rgba(63,165,251,1) 0%, rgba(0,0,0,1) 100%);
+	background-repeat:no-repeat;
+	background-attachment:fixed
+}
+
+.container{
+	padding: 0!important;
+}
+
+.row{
+	padding-left:5px;
+	padding-right:5px;
+	background-color:#fff;
+	margin-right:0px !important;
+	margin-left: 0px!important;
+	/* background-color: #fff; */
+}
+
+.title h2{
+	text-align: center;
+	margin-bottom:revert;
+	color: #fff;
+}
+
+.title h3{
+	text-align: center;
+	font-size:larger;
+	margin-bottom:20px;
+}
+
+
+/* ------------------------------------------------------------------------------ */
+
+.navbar{
+	border-style : none none solid!important;
+	border-color : #33d6f9!important;
+	border-width : 5px!important;
+
+}
+
+/* ------------------------------------------------------------------------------ */
+
+.presentation{
+	padding:9px 0px;
+	margin:15% 5% 15%;
+	border: 5px white solid;
+	background-color: black;
+	/* background-color:rgb(222,222,224,0.5); */
+}
+
+.presentation h1{
+	text-align: center;
+	margin-bottom: 20px;
+	font-size:xxx-large;
+	color:#FFF;
+}
+
+.presentation p{
+	text-align: center;
+	color:white;
+}
+
+/* ------------------------------------------------------------------------------ */
+
+.moyMaxToutsDonnées {
+	margin-bottom: 40px;
+}
+
+.moyMaxToutsDonnées img{
+	height:350px;
+	padding: 5%;
+}
+
+.donnéesRow1{
+	background-color : #fff;
+}
+
+
+/* ------------------------------------------------------------------------------ */
+
+
+.moyMaxAnnée{
+	padding:80px 0px;
+	background-color:transparent;
+}
+
+
+.moyMaxAnnée p{
+	text-align: center;
+}
+
+
+.donnéesRow2{
+	background-color : #e3f2fd;
+}
+
+.MoyMaxAnnéeRow2{
+
+}
+
+.col-md {
+    padding: 30px;
+    margin: 0 10px;
+}
+
+.ObesitéImg{
+	text-align: center;
+}
+
+
+
+.buttonNextPage{
+	padding:20px 50px 50px 20px;
+}
+
+/* ------------------------------------------------------------------------------ */
+
+
+footer{
+	background-color:  #e3f2fd;
+	padding: 20px 80px;
+}
+
+.footer{
+	margin-right:12%;
+}
